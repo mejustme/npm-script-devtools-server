@@ -1,5 +1,5 @@
 {
-  "name": "npm-scripts-devtools-server",
+  "name": "task-devtools",
   "version": "0.1.0",
   "description": "在chrome 控制台可视化执行npm scripts 中的任务-服务器端",
   "main": "chrome-devtools-npm-scripts-servers",
