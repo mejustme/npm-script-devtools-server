@@ -20,7 +20,6 @@ var server = function () {
 
     server.listen(9090);
 
-
     var sio = io.listen(server);
     var workers = [];
 
