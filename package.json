@@ -1,0 +1,31 @@
+{
+  "name": "npm-scripts-devtools-server",
+  "version": "0.1.0",
+  "description": "在chrome 控制台可视化执行npm scripts 中的任务-服务器端",
+  "main": "chrome-devtools-npm-scripts-servers",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mejustme/npm-script-devtools-server.git"
+  },
+  "bin": {
+    "scripts-devtools": "bin/npm-scripts-devtools.js"
+  },
+  "keywords": [
+    "npm devtools",
+    "devtools",
+    "chrome devtools"
+  ],
+  "dependencies": {
+    "lodash": "~2.4.1",
+    "socket.io": "~0.9.16"
+  },
+  "author": "mejustme",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mejustme/npm-script-devtools-server/issues"
+  },
+  "homepage": "https://github.com/mejustme/npm-script-devtools-server#readme"
+}
