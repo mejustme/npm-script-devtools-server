@@ -2,7 +2,7 @@
   "name": "task-devtools",
   "version": "0.1.0",
   "description": "在chrome 控制台可视化执行npm scripts 中的任务-服务器端",
-  "main": "chrome-devtools-npm-scripts-servers",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
